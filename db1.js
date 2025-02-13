@@ -22,6 +22,6 @@ const getUser = ()=>{
      console.log(`Show all records from user Table`,JSON.stringify(info,null,2));
 }
 
-saveUser("atesh","indore")
+saveUser("Atesh","Indore")
 saveUser("Piyush","TKG")
 getUser();
